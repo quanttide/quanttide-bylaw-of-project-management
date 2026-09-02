@@ -47,7 +47,7 @@
 |---|---|---|
 | 立项 | stage/initiation.md（立项章程） | 起草中 |
 | 交付 | stage/delivery.md（交付章程） | 起草中 |
-| 复盘 | retrospective.md（复盘章程 V1.0） | 已发布 |
+| 复盘 | stage/retrospective.md（复盘章程 V1.0） | 待审批 |
 
 **第十二条 阶段衔接**
 （一）立项章程的产出（口径确认文件、合同、报价）是交付阶段的输入；
